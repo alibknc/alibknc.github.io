@@ -46,7 +46,7 @@ img.emoji {
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://localhost/wordpress/wp-admin/admin-ajax.php",
-				"nonce": "1dd7077c7b",
+				"nonce": "4a74af5210",
 				"home_url": "http://localhost/wordpress"
 			};
 			/* ]]\> */
